@@ -55,8 +55,10 @@ Hardware: GPU (Google Colab)
 Evaluated on test set using:
 Accuracy Precision, Recall, F1-score
 
-Overall Accuracy: 0.9091386554621849
-Overall Precision: 0.9143989528885014
-Overall Recall: 0.9091386554621849
-Overall F1 Score: 0.9107802969629776
-Confusion Matrix
+Overall Accuracy: 90.91%
+
+Overall Precision: 91.44%
+
+Overall Recall: 90.91%
+
+Overall F1 Score: 91.08%
