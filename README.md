@@ -27,7 +27,7 @@ Meningioma
 Pituitary Tumour
 No Tumour
 
-# Dataset Preparation:
+# Dataset Preparation
 
 Images resized to 128×128 pixels
 Normalized to [0,1] range
